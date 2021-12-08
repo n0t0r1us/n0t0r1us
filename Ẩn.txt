@@ -1,0 +1,1 @@
+attrib +s +h "D:\tu lieu quan trong ko dc xoa\New folder\*.*" /s /d

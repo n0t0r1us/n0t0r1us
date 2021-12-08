@@ -1,0 +1,7 @@
+http://www.w3schools.com/
+http://learnpython.org/
+https://scikit-learn.org/
+http://kaggle.com/
+https://www.geeksforgeeks.org/
+https://codelearn.io/
+https://codeforces.com/
